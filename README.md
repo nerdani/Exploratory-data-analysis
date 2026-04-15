@@ -21,7 +21,7 @@ El análisis se estructuró en las siguientes fases técnicas:
 ### Rendimiento de ventas según el género del videojuego
 
 <p align="center">
-  <img src="https://github.com/nerdani/Exploratory-data-analysis/blob/main/assets/barpromgame.png" alt="Imagen" width="500">
+  <img src="https://github.com/nerdani/Exploratory-data-analysis/blob/main/assets/heatmap.png" alt="Imagen" width="500">
 </p>
  
 Observaciones.
@@ -31,7 +31,7 @@ Lo más llamativo aquí es que las Ventas_NA (Norteamérica) son las que más "e
 ### Promedio de Ventas Globales por Género de Videojuego
 
 <p align="center">
-  <img src="https://github.com/nerdani/Exploratory-data-analysis/blob/main/assets/barmapggen.png" alt="Imagen" width="500">
+  <img src="https://github.com/nerdani/Exploratory-data-analysis/blob/main/assets/barpromgame.png" alt="Imagen" width="500">
 </p>
  
 Observaciones 
