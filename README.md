@@ -45,5 +45,6 @@ Se concluye que el género Platform lidera la rentabilidad con un promedio de 0.
 
 ### Contacto
 Si deseas conocer más sobre mi metodología de trabajo o discutir este análisis:
+
 <a title="LinkedIn" href="https://www.linkedin.com/in/danielherreramz/" target="_blank" onclick="window.open('https://www.linkedin.com/in/danielherreramz/', '_blank');"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
