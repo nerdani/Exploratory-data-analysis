@@ -43,8 +43,7 @@ Se concluye que el género Platform lidera la rentabilidad con un promedio de 0.
 * Insights de Correlación: A través del mapa de calor, se identificaron las variables que más impactan en el éxito comercial de un título.
 *Impacto de la Visualización: La personalización de gráficos permitió convertir datos complejos en una historia visual clara para niveles ejecutivos.
 
-6. Contacto
+### Contacto
 Si deseas conocer más sobre mi metodología de trabajo o discutir este análisis:
-
 <a title="LinkedIn" href="https://www.linkedin.com/in/danielherreramz/" target="_blank" onclick="window.open('https://www.linkedin.com/in/danielherreramz/', '_blank');"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
